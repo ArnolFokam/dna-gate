@@ -1,3 +1,9 @@
 [submodule "example-app"]
 	path = example-app
 	url = https://github.com/ArnolFokam/dna-gate-example-app
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ArnolFokam/dna-gate-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ArnolFokam/dna-gate-backend
