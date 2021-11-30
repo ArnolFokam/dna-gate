@@ -4,4 +4,4 @@ systems but do not necessarily want to take an AI course at MIT to do so. How? I
 authentication while  keeping a layer of abstraction that will help you focus on your entire product rather than part of your product (authentication). 
 
 ## How to run it
-Click on each folder to be redirected to their respective repositories where you will find installation instructions.
+Click on each folder to get redirected to their respective repositories where you will find installation instructions.
