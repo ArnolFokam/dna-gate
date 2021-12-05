@@ -47,8 +47,12 @@ authentication while  keeping a layer of abstraction that will help you focus on
 
 ## Getting Started
 
-You can get the instructions on how to run each component of the project locally in the their respective folders.
+You should install and run the components in this order:
+1. [Backend](https://github.com/ArnolFokam/dna-gate-backend/tree/main) (to get the backend server up and running)
+2. [Frontend Dashboard](https://github.com/ArnolFokam/dna-gate-example-app/tree/main) (to create and account and get the api key)
+3. [Example App](https://github.com/ArnolFokam/dna-gate-frontend/tree/main) (to use that api key from the previous step in an app)
 
+Note: You can get the instructions on how to run each component of the project locally in their respective folders.
 
 ## License
 
